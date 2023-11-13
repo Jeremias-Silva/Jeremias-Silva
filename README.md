@@ -5,7 +5,7 @@
 
 - :file_folder: Experience with databases such as <a href="" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> etc;
 - :arrow_forward: Acting as a Front-End Developer within an agile development team to find creative solutions for the challenges and improve on existing solutions;
-- :eyes: I’m looking for a job and to collaborate on projects as voluntarie to learnig more how to work with this power tool <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+- :eyes: I’m looking for a projects to collaborate as voluntarie to learnig and pratice more how to work with this power tool <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 - :link: How to reach me by LinkedIn https://linkedin.com/in/jeremiah-silva-ca9 .<br></br>
 <a href="https://linkedin.com/in/jeremiah-silva-ca9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
