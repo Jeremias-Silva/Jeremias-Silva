@@ -17,8 +17,8 @@
 - :link: My Portfolio: https://jeremiah-portfolio.net<br></br>
 <a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a><br></br>
 
-
-
+### KEY SKILLS
+•	Event Scheduling & Organizing, Media Research, Public Speaking and Presentations, Social Media Marketing and Team Collaboration.
 
 <!-- <h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h2> -->
 
