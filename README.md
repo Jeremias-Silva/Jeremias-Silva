@@ -6,7 +6,6 @@
 - :file_folder: Experience with databases such as <a href="" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> etc;
 - :arrow_forward: Acting as a Front-End Developer within an agile development team to find creative solutions for the challenges and improve on existing solutions;
 
-
 ### Social Medias
 
 <a href="https://linkedin.com/in/jeremiah-silva-ca9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -18,9 +17,17 @@
 <a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a><br></br>
 - :link: My Portfolio: https://jeremiah-portfolio.net<br></br>
 
-### KEY SKILLS
-•	Event Scheduling & Organizing, Media Research, Public Speaking and Presentations, Social Media Marketing and Team Collaboration.
+<a href="https://instagram.com/jeremiah_i19.web" target="_blank" class="social social-instagram">Instagram</a>
 
+
+https://instagram.com/jeremiah_i19.web
+
+
+### KEY SKILLS
+•	:date: Event Scheduling & Organizing   and Team Collaboration.
+• :atom: Media Research
+• :speaking_head: Public Speaking and Presentations
+• : Social Media Marketing
 <!-- <h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h2> -->
 
 
