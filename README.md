@@ -22,7 +22,8 @@
 
 
 ### KEY SKILLS
--	:date: Event Scheduling & Organizing and Team Collaboration.
+-	:date: Event Scheduling Organizing
+-	:busts_in_silhouette: Team Collaboration
 - :atom: Media Research
 - :speaking_head: Public Speaking and Presentations
 - :iphone: Social Media Marketing
