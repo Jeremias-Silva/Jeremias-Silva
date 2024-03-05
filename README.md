@@ -8,7 +8,7 @@
 - :arrow_forward: Acting as a Front-End Developer within an agile development team to find creative solutions for the challenges and improve on existing solutions;
 - :eyes: *** Working on this *** <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
-- :link: How to reach me by LinkedIn https://linkedin.com/in/jeremias-pereira-4387372b5 .<br></br>
+- :link: How to reach me by LinkedIn www.linkedin.com/in/Jeremias-pereira-ca.<br></br>
 <a href="https://linkedin.com/in/jeremiah-silva-ca9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 - :link: E-mail: jeremias.rpnetwork@gmail.com <br></br>
@@ -21,7 +21,6 @@
 •	Event Scheduling & Organizing, Media Research, Public Speaking and Presentations, Social Media Marketing and Team Collaboration.
 
 <!-- <h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h2> -->
-
 
 
 ![Jere](https://user-images.githubusercontent.com/108309798/183326549-3aa58c91-1783-4763-ad2f-36007915bf11.svg)
