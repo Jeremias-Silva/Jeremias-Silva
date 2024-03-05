@@ -19,8 +19,6 @@
 
 
 <a href="https://www.instagram.com/jeremiah_i19/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br></br>
-
-<a href="https://www.instagram.com/jeremiah_i19/?ref=badge" class="ig-b- ig-b-48"><img src="//badges.instagram.com/static/images/ig-badge-48.png" alt="Instagram" /></a>
 - :link: Instagram: https://www.instagram.com/jeremiah_i19/<br></br>
 
 
