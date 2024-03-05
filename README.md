@@ -17,10 +17,7 @@
 <a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a><br></br>
 - :link: My Portfolio: https://jeremiah-portfolio.net<br></br>
 
-<a href="https://instagram.com/jeremiah_i19.web" target="_blank" class="social social-instagram">Instagram</a>
-
-
-https://instagram.com/jeremiah_i19.web
+<a href="https://www.instagram.com/jeremiah_i19/" target="_blank" class="social social-instagram">Instagram</a>
 
 
 ### KEY SKILLS
