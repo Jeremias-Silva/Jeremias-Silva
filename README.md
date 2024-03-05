@@ -9,16 +9,16 @@
 ### Social Medias
 
 <a href="https://linkedin.com/in/jeremiah-silva-ca9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-- :link: How to reach me by LinkedIn www.linkedin.com/in/Jeremias-pereira-PR<br></br>
+- :link: www.linkedin.com/in/Jeremias-pereira-PR<br></br>
 
 <a href = "mailto:jeremias.rpnetwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><b></b>
-- :link: E-mail: jeremias.rpnetwork@gmail.com <br></br>
+- :link: jeremias.rpnetwork@gmail.com <br></br>
 
 <a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a><br></br>
-- :link: My Portfolio: https://jeremiah-portfolio.net<br></br>
+- :link: https://jeremiah-portfolio.net<br></br>
 
 <a href="https://www.instagram.com/jeremiah_i19/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br></br>
-- :link: Instagram: https://www.instagram.com/jeremiah_i19/<br></br>
+- :link: https://www.instagram.com/jeremiah_i19/<br></br>
 
 
 ### KEY SKILLS
