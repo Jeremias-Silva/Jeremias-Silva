@@ -25,8 +25,8 @@
 -	:date: Event Scheduling & Organizing and Team Collaboration.
 - :atom: Media Research
 - :speaking_head: Public Speaking and Presentations
-- : Social Media Marketing
-- 
+- :iphone: Social Media Marketing
+
 <!-- <h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h2> -->
 
 
