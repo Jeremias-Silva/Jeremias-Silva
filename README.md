@@ -31,7 +31,7 @@
 
 
  <a href="#" style="margin-right: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="VS Code">
     </a>
 
 
