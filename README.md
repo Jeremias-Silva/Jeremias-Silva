@@ -35,8 +35,12 @@
 ![Jere](https://user-images.githubusercontent.com/108309798/183326549-3aa58c91-1783-4763-ad2f-36007915bf11.svg)
 
 <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" width="40" alt="VS Code"></a><br></br>
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" width="40" alt="VS Code"></a><br></br>
 
 
+
+
+https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg
 <!---
 Jeremiah-Silva/Jeremiah-Silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
