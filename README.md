@@ -46,7 +46,7 @@
         <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" width="40">
     </a>
     <a href="#" style="margin-right: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" width="40">
     </a>
     <a href="#" style="margin-right: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" alt="Jupyter">
