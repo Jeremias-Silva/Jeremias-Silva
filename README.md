@@ -28,6 +28,17 @@
 - :speaking_head: Public Speaking and Presentations
 - :iphone: Social Media Marketing
 
+
+
+ <a href="#" style="margin-right: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code">
+    </a>
+
+
+
+
+
+
 <!-- <h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h2> -->
 
 
