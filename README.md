@@ -17,7 +17,7 @@
 <a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a><br></br>
 - :link: https://jeremiah-portfolio.net<br></br>
 
-<a href="https://www.instagram.com/jeremiah_i19/" target="_blank"><https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg</a><br></br>
+<a href="https://www.instagram.com/jeremiah_i19/" target="_blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg"</a><br></br>
 - :link: https://www.instagram.com/jeremiah_i19/<br></br>
 
 
