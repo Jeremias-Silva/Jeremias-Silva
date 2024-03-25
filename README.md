@@ -29,16 +29,6 @@
 - :iphone: Social Media Marketing
 
 
-
- <a href="#" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="VS Code">
-    </a>
-
-
-
-
-
-
 <!-- <h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h2> -->
 
 
