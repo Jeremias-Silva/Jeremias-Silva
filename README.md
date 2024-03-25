@@ -34,20 +34,16 @@
 
 ![Jere](https://user-images.githubusercontent.com/108309798/183326549-3aa58c91-1783-4763-ad2f-36007915bf11.svg)
 
-<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" width="40" alt="VS Code"></a><br></br>
-<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" width="40" alt="VS Code"></a><br></br>
-
-
 
 <div style="display: flex; align-items: center;">
     <a href="#" style="margin-right: 10px;">
         <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" width="40">
     </a>
     <a href="#" style="margin-right: 10px;">
-        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" width="40"></a><br></br>
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" width="40">
     </a>
     <a href="#" style="margin-right: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" width="40">
     </a>
     <a href="#" style="margin-right: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code">
