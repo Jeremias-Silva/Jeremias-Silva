@@ -36,7 +36,7 @@
 
 
 <div style="display: flex; align-items: center;">
-    <a href="#" style="margin-right: 300px;">
+    <a href="#" style="margin-right: -10px;">
         <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" width="40">
     </a>
     <a href="#" style="margin-right: 10px;">
