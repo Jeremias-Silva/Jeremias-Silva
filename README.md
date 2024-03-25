@@ -8,13 +8,13 @@
 
 ### Social Medias
 
-<a href="https://linkedin.com/in/jeremiah-silva-ca9" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a> <br></br>:link: www.linkedin.com/in/Jeremias-pereira-PR<br></br>
+<a href="https://linkedin.com/in/jeremiah-silva-ca9" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50"></a> <br></br>:link: www.linkedin.com/in/Jeremias-pereira-PR<br></br>
 
-<a href = "mailto:jeremias.rpnetwork@gmail.com"><img src=https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codeforces.svg width="40"></a><br></br> :link: jeremias.rpnetwork@gmail.com <br></br>
+<a href = "mailto:jeremias.rpnetwork@gmail.com"><img src=https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codeforces.svg width="50"></a><br></br> :link: jeremias.rpnetwork@gmail.com <br></br>
 
-<a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codesandbox.svg" width="40" alt="VS Code"></a><br></br>:link: https://jeremiah-portfolio.net <br></br>
+<a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codesandbox.svg" width="50"></a><br></br>:link: https://jeremiah-portfolio.net <br></br>
 
-<a href="https://www.instagram.com/jeremiah_i19/" target="_blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" width="40" alt="VS Code"></a><br></br> :link: https://www.instagram.com/jeremiah_i19/<br></br>
+<a href="https://www.instagram.com/jeremiah_i19/" target="_blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" width="50"></a><br></br> :link: https://www.instagram.com/jeremiah_i19/<br></br>
 
 
 ### KEY SKILLS
