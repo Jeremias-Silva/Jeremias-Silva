@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/jeremiah-silva-ca9" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="VS Code"></a>
 - :link: www.linkedin.com/in/Jeremias-pereira-PR<br></br>
 
-<a href = "mailto:jeremias.rpnetwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><b></b>
+<a href = "mailto:jeremias.rpnetwork@gmail.com"><img src=https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codeforces.svg target="_blank"></a><b></b>
 - :link: jeremias.rpnetwork@gmail.com <br></br>
 
 <a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a><br></br>
