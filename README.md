@@ -31,6 +31,32 @@
 
 <!-- <h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h2> -->
 
+<div style="display: flex; align-items: center;">
+    <a href="#" style="margin-right: 10px;">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" width="40">
+    </a>
+    <a href="#" style="margin-right: 10px;">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" width="40">
+    </a>
+    <a href="#" style="margin-right: 10px;">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" width="40">
+    </a>
+    <a href="#" style="margin-right: 10px;">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" width="40">
+    </a>
+    <a href="#" style="margin-right: 10px;">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" width="40">
+    </a>
+    <a href="#" style="margin-right: 10px;">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/express.svg" width="40">
+    </a>
+    <a href="#" style="margin-right: 10px;">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mongodb.svg" width="40">
+    </a>
+    <a href="#" style="margin-right: 10px;">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" width="40">
+    </a>
+</div>
 
 ![Jere](https://user-images.githubusercontent.com/108309798/183326549-3aa58c91-1783-4763-ad2f-36007915bf11.svg)
 
