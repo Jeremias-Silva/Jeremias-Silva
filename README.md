@@ -20,9 +20,9 @@
 ### KEY SKILLS
 -	:date: Event Scheduling Organizing
 -	:busts_in_silhouette: Team Collaboration
-- :satellite: Media Research
-- :speaking_head: Public Speaking and Presentations
-- :iphone: Social Media Marketing
+-   :satellite: Media Research
+-   :speaking_head: Public Speaking and Presentations
+-   :iphone: Social Media Marketing
 
 
 <!-- <h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h2> -->
