@@ -14,7 +14,7 @@
 <a href = "mailto:jeremias.rpnetwork@gmail.com"><img src=https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codeforces.svg width="40" alt="VS Code"></a><b></b>
 - :link: jeremias.rpnetwork@gmail.com <br></br>
 
-<a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a><br></br>
+<a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codesandbox.svg" width="40" alt="VS Code"></a><br></br>
 - :link: https://jeremiah-portfolio.net<br></br>
 
 <a href="https://www.instagram.com/jeremiah_i19/" target="_blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" width="40" alt="VS Code"></a><br></br>
