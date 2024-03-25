@@ -8,7 +8,7 @@
 
 ### Social Medias
 
-<a href="https://linkedin.com/in/jeremiah-silva-ca9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/jeremiah-silva-ca9" target="_blank"><img src=" <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="VS Code">" target="_blank"></a>
 - :link: www.linkedin.com/in/Jeremias-pereira-PR<br></br>
 
 <a href = "mailto:jeremias.rpnetwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><b></b>
