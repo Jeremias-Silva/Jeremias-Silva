@@ -10,7 +10,7 @@
 
 <a href="https://linkedin.com/in/jeremiah-silva-ca9" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a> :link: www.linkedin.com/in/Jeremias-pereira-PR<br></br>
 
-<a href = "mailto:jeremias.rpnetwork@gmail.com"><img src=https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codeforces.svg width="40" alt="VS Code"></a><b></b> :link: jeremias.rpnetwork@gmail.com <br></br>
+<a href = "mailto:jeremias.rpnetwork@gmail.com"><img src=https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codeforces.svg width="40"></a><b></b> :link: jeremias.rpnetwork@gmail.com <br></br>
 
 <a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codesandbox.svg" width="40" alt="VS Code"></a><br></br>:link: https://jeremiah-portfolio.net <br></br>
 
